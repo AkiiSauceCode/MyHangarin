@@ -22,6 +22,6 @@ add notes, and break down large goals into smaller subtasks.
 
 ## **AUTHOR:**
 
-### *Radzmar D. Hajon*
+### *Arcangel D. Elegio*
 
 </div>
