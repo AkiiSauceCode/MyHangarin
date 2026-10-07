@@ -171,7 +171,7 @@ MAILERS = {
     },
 }
 
-PWA_APP_NAME = 'ProjectSite' 
+PWA_APP_NAME = 'Hangarin Project' 
 PWA_APP_DESCRIPTION = "A Progressive Web App version of ProjectSite" 
 PWA_APP_THEME_COLOR = '#0A0A0A' 
 PWA_APP_BACKGROUND_COLOR = '#FFFFFF' 
@@ -182,21 +182,21 @@ PWA_APP_START_URL = '/'
 PWA_APP_STATUS_BAR_COLOR = 'default' 
 PWA_APP_ICONS = [     
     {         
-        'src': '/static/img/icon-192.png',         
+        'src': '/static/img/zani192.png',         
         'sizes': '192x192'     
     },     
     {         
-        'src': '/static/img/icon-512.png',         
+        'src': '/static/img/zani512.png',         
         'sizes': '512x512'     
     } 
 ] 
 PWA_APP_ICONS_APPLE = [     
     {         
-        'src': '/static/img/icon-192.png',         
+        'src': '/static/img/zani192.png',         
         'sizes': '192x192'     
     },     
     {         
-        'src': '/static/img/icon-512.png',         
+        'src': '/static/img/zani512.png',         
         'sizes': '512x512'     
     }
 ] 
